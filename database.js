@@ -1,0 +1,60 @@
+module.exports = {
+    produtos: [
+      {
+        id: 1,
+        nome: 'Chocolate',
+        descricao: 'Chocolate meio amargo',
+        categoria: 'alimento',
+        preco: 4,
+      },
+      {
+        id: 2,
+        nome: 'Notebook',
+        descricao: 'Nuita memória RAM e teras de memória no disco rígido',
+        categoria: 'informática',
+        preco: 999,
+      },
+      {
+        id: 3,
+        nome: 'Lysoform',
+        descricao: 'Desinfetante fedido que diz matar 99 por cento de tudo',
+        categoria: 'casa',
+        preco: 7,
+      },
+      {
+        id: 4,
+        nome: 'Protex',
+        descricao: 'Sabonete que resseca a pele ',
+        categoria: 'higiene',
+        preco: 3,
+      },
+      {
+        id: 5,
+        nome: 'Monster Manga',
+        descricao: 'Energético mais perfeito criado',
+        categoria: 'bebida',
+        preco: 8,
+      },
+      {
+        id: 6,
+        nome: 'Lencinho umidecido',
+        descricao: 'Limpeza eficiente após o número 2',
+        categoria: 'higiene',
+        preco: 15,
+      },
+      {
+        id: 7,
+        nome: 'Capa para notebook',
+        descricao: ' Segurança para levar o equipamento em transporte público',
+        categoria: 'informática',
+        preco: 50,
+      },
+      {
+        id: 8,
+        nome: 'Downey',
+        descricao: ' Porque cheiro bom na roupa faz bem',
+        categoria: 'casa',
+        preco: 9,
+      },
+    ],
+  }

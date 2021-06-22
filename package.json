@@ -1,0 +1,15 @@
+{
+  "name": "aula5_carrinho",
+  "version": "1.0.0",
+  "description": "",
+  "main": "codigo.js",
+  "scripts": {
+    "start": "nodemon codigo.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
